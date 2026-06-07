@@ -1,0 +1,12 @@
+[
+  {
+    "tipo": "prenda",
+    "id_prenda": "PAN-001",
+    "nombre": "pantalon beige",
+    "talla": "M",
+    "precio": 150.0,
+    "cantidad": 4,
+    "estado": "Disponible",
+    "descuento": null
+  }
+]
